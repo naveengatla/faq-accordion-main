@@ -39,7 +39,8 @@ The challenge involved creating an FAQ accordion using HTML, CSS, and JavaScript
 
 ### Links
 - [Solution Link](https://github.com/naveengatla/faq-accordion-main)
-- [Live Site](http://faq-accordion-main.s3-website-us-east-1.amazonaws.com/)
+- [Live Site hosted on AWS S3](http://faq-accordion-main.s3-website-us-east-1.amazonaws.com/)
+- [Live Site hosted on GitHub Pages](https://naveengatla.github.io/faq-accordion-main/)
 
 ## Final Notes:
 
