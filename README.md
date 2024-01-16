@@ -1,3 +1,11 @@
+#  [Frontend Mentor](https://www.frontendmentor.io)  - FAQ accordion solution 
+
+This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+
+
+
+
+
 <!-- # Frontend Mentor - FAQ accordion
 
 ![Design preview for the FAQ accordion coding challenge](./design/desktop-preview.jpg)
@@ -94,3 +102,5 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀 -->
+
+
