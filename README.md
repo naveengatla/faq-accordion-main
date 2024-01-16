@@ -37,6 +37,10 @@ The challenge involved creating an FAQ accordion using HTML, CSS, and JavaScript
 ### Screenshot:
 ![Screenshot](https://github.com/naveengatla/faq-accordion-main/blob/main/Screenshot%202024-01-15%20205922.png)
 
+### Links
+- [Solution Link](https://github.com/naveengatla/faq-accordion-main)
+- [Live Site](http://faq-accordion-main.s3-website-us-east-1.amazonaws.com/)
+
 ## Final Notes:
 
 The FAQ accordion is now a visually appealing and interactive component that provides information about Frontend Mentor. The design is responsive and user-friendly, ensuring a positive user experience across various devices.
