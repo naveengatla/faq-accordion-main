@@ -34,6 +34,9 @@ The challenge involved creating an FAQ accordion using HTML, CSS, and JavaScript
 - Gained experience in handling events and toggling classes for interactivity.
 - Enhanced understanding of jQuery for efficient DOM manipulation.
 
+### Screenshot:
+![Screenshot](https://github.com/naveengatla/faq-accordion-main/blob/main/Screenshot%202024-01-15%20205922.png)
+
 ## Final Notes:
 
 The FAQ accordion is now a visually appealing and interactive component that provides information about Frontend Mentor. The design is responsive and user-friendly, ensuring a positive user experience across various devices.
@@ -41,7 +44,7 @@ The FAQ accordion is now a visually appealing and interactive component that pro
 ## Acknowledgments:
 
 - Challenge by [Frontend Mentor](https://www.frontendmentor.io?ref=challenge).
-- Coded by [Your Name Here].
+- Coded by Naveen Gatla.
 
 
 
